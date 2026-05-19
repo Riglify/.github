@@ -48,11 +48,10 @@ We are entirely community-driven! You can help us improve the tool:
 
 Stay updated on updates, fixes, and community showcases:
 
-[![Website](https://img.shields.io/badge/Website-blue?logo=github)](https://riglify.com)
-[![Discord](https://img.shields.io/badge/Discord-424549?logo=discord)](https://discord.gg)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com)
-[![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/riglify
-)
+[![Website](https://img.shields.io/badge/Website-blue?logo=github)](https://riglify.github.io)
+[![Discord](https://img.shields.io/badge/Discord-424549?logo=discord)](https://discord.gg/tUyzjXvU5f)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@NothingButTyler)
+[![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/riglify)
 
 ---
 <p align="center">🎮 Empowering the next generation of Roblox animators.</p>
