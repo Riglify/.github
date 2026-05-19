@@ -1,5 +1,4 @@
 # 👋 Welcome to Riglify
-<img width="500" height="500" alt="file_00000000d54071fdb9d1512e9369a34e-removebg-preview" src="https://github.com/user-attachments/assets/4ea92fb9-21c3-4a94-ae5f-a2033fd3c338" />
 
 ### 🚀 Export Roblox assets to your favorite animation tools in just one click!
 
