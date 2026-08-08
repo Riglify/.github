@@ -37,6 +37,14 @@ Our ecosystem is designed for speed and reliability:
 
 ---
 
+### 👤 Who Made Riglify?
+
+Riglify was created by **[NothingButTyler](https://nothingbuttyler.github.io)**, a developer and content creator with 7.50k+ subscribers on his main YouTube channel.
+
+Learn more about the creator, the story behind Riglify, and the projects behind the platform:
+
+➡️ **[Meet the Creator](https://riglify.github.io/creator)**
+
 ### 🤝 Join the Movement
 
 We are entirely community-driven! You can help us improve the tool:
